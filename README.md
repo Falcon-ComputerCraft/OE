@@ -11,4 +11,4 @@ N/A
 ## UI
 N/A
 ## MISC
- - [ ] Add a basic installer
+ - [ ] Add a basic installer  (Falcon SE)
