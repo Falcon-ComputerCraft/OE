@@ -3,4 +3,4 @@ local settings = {
 }
 
 print("                   Falcon OE")
-print("| " .. settings["GithubURL"] .. " |")
+print(settings["GithubURL"])
